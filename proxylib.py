@@ -336,9 +336,11 @@ class UDPHandler(BaseRequestHandler):
                 data = self.removeTopVia()
                 if data[0] == "SIP/2.0 486 Busy here":
                     data[0] = "SIP/2.0 486 Obsadené"
-                elif data[0] == "SIP/2.0 180 Ringing":
+                if data[0] == "SIP/2.0 200 Ok":
+                    data[0] = "SIP/2.0 200 Vporiadku"
+                if data[0] == "SIP/2.0 180 Ringing":
                     data[0] = "SIP/2.0 180 Zvoní"
-                elif data[0] == "SIP/2.0 603 Decline":
+                if data[0] == "SIP/2.0 603 Decline":
                     data[0] = "SIP/2.0 603 Hovor zrušený"
                 separ = "\r\n"
                 text = separ.join(data).encode()
