@@ -1,0 +1,73 @@
+15:04:47:INFO:Tue, 01 Mar 2022 15:04:47 
+15:04:47:INFO:DESKTOP-RI65ELJ
+15:04:47:INFO:147.175.160.83
+15:04:55:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:52625
+15:04:58:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:52625
+15:05:00:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:58719
+15:05:04:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni lubiik@147.175.160.83
+15:05:07:INFO:<<< Hovor prijaty medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:06:33:INFO:<<< Hovor ukonceny medzi lubiik@147.175.160.83 a lubo@147.175.160.83
+15:12:35:INFO:Tue, 01 Mar 2022 15:12:35 
+15:12:35:INFO:DESKTOP-RI65ELJ
+15:12:35:INFO:147.175.160.83
+15:12:38:INFO:Registrovany pouzivatel: papo@147.175.160.83 - Adresa: 147.175.160.206:55006
+15:12:40:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:50489
+15:12:41:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:50489
+15:12:45:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:50967
+15:12:53:INFO:<<< Ucastnik lubiik@147.175.160.83 zvoni papo@147.175.160.83
+15:12:59:INFO:<<< CANCEL sip:papo@147.175.160.83 SIP/2.0
+15:13:00:INFO:<<< Hovor prijaty medzi lubiik@147.175.160.83 a papo@147.175.160.83
+15:13:27:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni lubiik@147.175.160.83
+15:13:27:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni papo@147.175.160.83
+15:13:30:INFO:<<< Hovor prijaty medzi lubo@147.175.160.83 a papo@147.175.160.83
+15:13:31:INFO:<<< Hovor prijaty medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:13:32:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni papo@147.175.160.83
+15:13:32:INFO:<<< Hovor prijaty medzi lubo@147.175.160.83 a papo@147.175.160.83
+15:13:41:INFO:<<< Hovor ukonceny medzi papo@147.175.160.83 a lubo@147.175.160.83
+15:13:43:INFO:<<< Hovor ukonceny medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:17:13:INFO:Tue, 01 Mar 2022 15:17:13 
+15:17:13:INFO:DESKTOP-RI65ELJ
+15:17:13:INFO:147.175.160.83
+15:17:15:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:55840
+15:17:23:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:53690
+15:17:28:INFO:<<< Ucastnik lubiik@147.175.160.83 zvoni lubo@147.175.160.83
+15:17:33:INFO:<<< Hovor prijaty medzi lubiik@147.175.160.83 a lubo@147.175.160.83
+15:17:40:INFO:<<< Hovor ukonceny medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:17:48:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni lubiik@147.175.160.83
+15:17:50:INFO:<<< Hovor prijaty medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:18:45:INFO:Tue, 01 Mar 2022 15:18:45 
+15:18:45:INFO:DESKTOP-RI65ELJ
+15:18:45:INFO:147.175.160.83
+15:18:47:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:54360
+15:18:49:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:54360
+15:18:58:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:53690
+15:19:00:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni lubiik@147.175.160.83
+15:19:05:INFO:<<< ACK sip:lubiik@147.175.160.83 SIP/2.0
+15:19:33:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni lubiik@147.175.160.83
+15:19:38:INFO:<<< ACK sip:lubiik@147.175.160.237:54360;pn-prid=A8B3CAFD29F1C05BD33FF4FF2E99B7284821283A5D92884758E19304F0F3CFA4:voip&9E64E47E419150FE27983F27323C965AEDDF3FF99C78FF40F102D1947D7AD5F9:remote;pn-provider=apns;pn-param=ABCD1234.org.linphone.phone.voip&remote;pn-silent=1;pn-timeout=0;pn-msg-str=IM_MSG;pn-call-str=IC_MSG;pn-groupchat-str=GC_MSG;pn-call-snd=notes_of_the_optimistic.caf;pn-msg-snd=msg.caf;transport=udp SIP/2.0
+15:19:46:INFO:<<< Hovor ukonceny medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:21:02:INFO:Tue, 01 Mar 2022 15:21:02 
+15:21:02:INFO:DESKTOP-RI65ELJ
+15:21:02:INFO:147.175.160.83
+15:21:06:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:53690
+15:21:09:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:57791
+15:21:10:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:57791
+15:21:13:INFO:<<< INVITE sip:lubiik@147.175.160.83 SIP/2.0
+15:21:16:INFO:<<< ACK sip:lubiik@147.175.160.83 SIP/2.0
+15:21:39:INFO:<<< INVITE sip:lubiik@147.175.160.83 SIP/2.0
+15:21:43:INFO:<<< ACK sip:lubiik@147.175.160.237:57791;pn-prid=A8B3CAFD29F1C05BD33FF4FF2E99B7284821283A5D92884758E19304F0F3CFA4:voip&9E64E47E419150FE27983F27323C965AEDDF3FF99C78FF40F102D1947D7AD5F9:remote;pn-provider=apns;pn-param=ABCD1234.org.linphone.phone.voip&remote;pn-silent=1;pn-timeout=0;pn-msg-str=IM_MSG;pn-call-str=IC_MSG;pn-groupchat-str=GC_MSG;pn-call-snd=notes_of_the_optimistic.caf;pn-msg-snd=msg.caf;transport=udp SIP/2.0
+15:21:51:INFO:<<< Hovor ukonceny medzi lubiik@147.175.160.83 a lubo@147.175.160.83
+15:24:41:INFO:Tue, 01 Mar 2022 15:24:41 
+15:24:41:INFO:DESKTOP-RI65ELJ
+15:24:41:INFO:147.175.160.83
+15:24:46:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:53690
+15:24:49:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:62420
+15:24:50:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:62420
+15:34:43:INFO:Tue, 01 Mar 2022 15:34:43 
+15:34:43:INFO:147.175.160.83
+15:34:46:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:64245
+15:34:48:INFO:Registrovany pouzivatel: lubiik@147.175.160.83 - Adresa: 147.175.160.237:64245
+15:34:51:INFO:Registrovany pouzivatel: lubo@147.175.160.83 - Adresa: 147.175.160.83:60258
+15:34:54:INFO:<<< Ucastnik lubo@147.175.160.83 zvoni lubiik@147.175.160.83
+15:34:56:INFO:<<< Hovor prijaty medzi lubo@147.175.160.83 a lubiik@147.175.160.83
+15:34:59:INFO:<<< Hovor ukonceny medzi lubiik@147.175.160.83 a lubo@147.175.160.83
